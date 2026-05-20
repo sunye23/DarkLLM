@@ -41,8 +41,8 @@ pip install git+https://github.com/facebookresearch/segment-anything.git
 pip install open_clip_torch
 pip install flash_attn-2.7.3+cu121torch2.3-cp310-cp310-linux_x86_64.whl 
 ```
-</details>
 The compiled flash_attn wheel file can be downloaded from this [website](https://github.com/mjun0812/flash-attention-prebuild-wheels/releases).
+</details>
 
 ## Model Weights
 
